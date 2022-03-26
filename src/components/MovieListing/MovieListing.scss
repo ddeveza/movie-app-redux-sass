@@ -1,0 +1,14 @@
+.movies__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.movies__header {
+    margin: 10px 0px;
+}
+
+.movies__list {
+    display: flex;
+    flex-direction: row;
+}
